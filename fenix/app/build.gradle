@@ -579,7 +579,7 @@ dependencies {
     debugImplementation ComponentsDependencies.androidx_compose_ui_tooling
 
     implementation ComponentsDependencies.androidx_activity_compose
-    implementation FenixDependencies.androidx_activity_ktx
+    implementation ComponentsDependencies.androidx_activity_ktx
     implementation ComponentsDependencies.androidx_annotation
     implementation ComponentsDependencies.androidx_compose_ui
     implementation ComponentsDependencies.androidx_compose_ui_tooling_preview
